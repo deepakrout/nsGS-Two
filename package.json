@@ -3,14 +3,12 @@
     "id": "com.routio.nsgstwo",
     "tns-android": {
       "version": "6.5.0"
-    },
-    "tns-ios": {
-      "version": "6.5.0"
     }
   },
   "description": "NativeScript Application",
+  "author": "Deepak Rout",
   "license": "SEE LICENSE IN <your-license-filename>",
-  "repository": "<fill-your-repository-here>",
+  "repository": "https://github.com/deepakrout/nsGS-Two.git",
   "scripts": {
     "lint": "tslint \"src/**/*.ts\""
   },
